@@ -250,3 +250,21 @@ Homepage: https://github.com/pmqueiroz/nova
 Description: A GPU-accelerated terminal emulator
  Nova is a fast, GPU-accelerated terminal emulator built with Rust and iced.
 
+Package: nova
+Architecture: amd64
+Version: 0.20.0
+Priority: optional
+Section: utils
+Maintainer:
+Installed-Size: 41168
+Depends: libxkbcommon0, libwayland-client0, libgl1
+Filename: pool/main/nova_0.20.0_amd64.deb
+Size: 16661138
+MD5sum: 0978bf3c0920e0567d131e75b1a48d9d
+SHA1: d7b02fa02390794202145f2347ac71cf7b4b64bf
+SHA256: f667d5dfb24c108f325008e40d99f6383b566e65ebb883a0d393c4b7f64e46c5
+SHA512: 92632a264a008ab65383bffd265e6ece38640143ddfed88d18aba05e6a253b8a3ef1e3d01cde193f214faf979ca0077fdcee21a543fb9db28be8089b39c61c88
+Homepage: https://github.com/pmqueiroz/nova
+Description: A GPU-accelerated terminal emulator
+ Nova is a fast, GPU-accelerated terminal emulator built with Rust and iced.
+
